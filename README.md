@@ -42,7 +42,19 @@ Users should be able to:
 
 ### What I learned
 
+- Media Queries
+- JavaScript methods:
+  - getAttribute()
+  - setAttribute()
+- JavaScript properties:
+  - children
+  - nextElementSibling
+  - clientHeight
+  - innerHeight
+- JavaScript event type:
+  - scroll
 
+This challenge pushed me to rely on researching solutions and reading documentation. Still being new to this journey, I am thrilled with the solution I have implemented.
 
 ### Useful resources
 
